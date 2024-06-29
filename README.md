@@ -1,6 +1,6 @@
 # About Me:
 I'm collaborating on a secret project for the next 6 months <br>
-I'm currently learning how to code in C++ through netacad.
+I'm working on building AI.
 
 
 ## 🌐 Socials:
